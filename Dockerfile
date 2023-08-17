@@ -31,6 +31,11 @@ CMD ["/serverapi"]
 
 # Working Version 1
 
+# comands to build and publish
+#docker build -t serverapi .
+#docker images
+#docker tag serverapi devdocked/serverapi:v1
+#docker push devdocked/serverapi:v1
 
 
 
